@@ -1,5 +1,7 @@
 # User Registration & Login systems in Node.js with NO DB
 
+## Εxcuse the Greek language I'm using for header and footer! Thank you
+
 ## Getting Started
 
 The project is [live](https://registerloginsxoli.herokuapp.com/login) on: 🌍 https://registerloginsxoli.herokuapp.com/login 
