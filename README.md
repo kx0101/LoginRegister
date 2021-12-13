@@ -1,6 +1,6 @@
 # User Registration & Login systems in Node.js with NO DB
 
-## Εxcuse the Greek language I'm using for header and footer! Thank you
+## Εxcuse the Greek language I'm using for the header and footer! Thank you
 
 ## Getting Started
 
