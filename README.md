@@ -32,7 +32,7 @@ Error message when trying to log in with the incorrect password.
 
 - ## Hashed Password
 
-We're using a bcrypt to hash the passwords.
+We're using bcrypt to hash the passwords.
 
 <img src="screenshots/hashedPassword.png">
 
